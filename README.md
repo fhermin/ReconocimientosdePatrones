@@ -1,6 +1,6 @@
 # 🧠 Reconocimiento de Patrones
 
-![Reconocimiento de Patrones](https://imgur.com/orZWHly.png)
+![Reconocimiento de Patrones](https://adpmx.com/wp-content/uploads/2024/03/reconocimiento-de-imagenes-1.jpg)
 
 Bienvenido al repositorio de **Reconocimiento de Patrones**. Este curso explora los fundamentos y técnicas avanzadas para identificar patrones en datos, aplicando métodos de **Machine Learning** y **Análisis de Datos**. Aquí encontrarás código, recursos y ejemplos prácticos que te ayudarán a comprender y aplicar los conceptos aprendidos.
 
