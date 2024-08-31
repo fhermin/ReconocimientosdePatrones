@@ -3,6 +3,7 @@
 ![Reconocimiento de Patrones](https://adpmx.com/wp-content/uploads/2024/03/reconocimiento-de-imagenes-1.jpg)
 
 Bienvenido al repositorio de **Reconocimiento de Patrones**. Este curso explora los fundamentos y técnicas avanzadas para identificar patrones en datos, aplicando métodos de **Machine Learning** y **Análisis de Datos**. Aquí encontrarás código, recursos y ejemplos.
+Mayormente se complementan con cursos que al finalizar la materia pondre el certificado de cada uno aquí para que puedan ver que material use
 
 ## 🚀 Contenido del Repositorio
 
@@ -31,7 +32,7 @@ Bienvenido al repositorio de **Reconocimiento de Patrones**. Este curso explora 
 ## 📚 Recursos Adicionales
 
 - [Documentación de Scikit-Learn](https://scikit-learn.org/)
-- [Libros recomendados](#): **Pattern Recognition and Machine Learning** - Christopher Bishop
+- [Libros recomendados](#): **Pattern Recognition and Machine Learning** - Christopher Bishop [Aqui gratis ;)](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
 
 ## 🤝 EXTRA!!!!!!!!!!!!!!!
 
